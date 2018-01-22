@@ -6,31 +6,17 @@ theme = "forty"
 googleAnalytics = ""
 
 [params]
-  # You can use Markdown syntax for urls [text](//url.to/source)
-  # To create multi-line text in strings use the """example Text""" format
-  #
-  # All icons using Fontawesome's icon font. Look at fontawesome.io/icons
-  # for more icons. The icons are represented by their corresponding
-  # CSS class.
-
-  # Provide your metadata here.
   name = "Dimitrios Stergiou"
   description = "Your description"
-
-  # Link custom assets relative to /static
   custom_css = []
   custom_js  = []
   favicon    = "img/favicon.ico"
-
-  # Just a custom image variable, please define it in .md files for content.
   image = ""
 
-  # 404 error customization
   [params.error404]
     heading = "Page couldn't be found"
     text = "Please visit [this page](/)"
 
-  # Navigation Section
   [params.navigation]
     title = "Home"
     #subtitle = "Risk and Security consulting services"
@@ -38,33 +24,34 @@ googleAnalytics = ""
     # Optional logo as brand stored in img/
     # logo = "logo.png"
 
-    [[params.navigation.links]]
+    [[params.navigation.button1]]
       name = "Home"
       url = "#"
 
     [[params.navigation.links]]
       name = "Privacy (GDPR)"
-      url = "blogs/aliquam"
+      url = "blogs/privacy"
 
-    # Add custom links here by uncommenting code below. To remove links just delete
-    # the [[params.navigation.links]] map associated with that link. Copy and paste
-    # code below if you need more links. Buttons work in the same way.
-    # [[params.navigation.links]]
-    #    name = "NameOfLink"
-    #    url = "UrlOfLink"
+    [[params.navigation.links]]
+      name = "Information Security"
+      url = "blogs/infosec"
 
-    # Button Style 1
-#    [[params.navigation.button1]]
-#      name = "Get Started"
-#      url = "blogs"
+    [[params.navigation.links]]
+      name = "Secure Development (SDLC)"
+      url = "blogs/sdlc"
 
-    # Button Style 2
-#    [[params.navigation.button2]]
-#      name = "Log In"
-#      url = "#"
+    [[params.navigation.links]]
+      name = "iGaming Security"
+      url = "blogs/igaming"
 
+    [[params.navigation.links]]
+      name = "Awareness Training"
+      url = "blogs/training"
 
-  # Banner section
+    [[params.navigation.links]]
+      name = "Speaking engangements"
+      url = "blogs/conference"
+
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
@@ -72,53 +59,44 @@ googleAnalytics = ""
     subtitle = "Risk, Privacy, and Security consulting services"
     buttonText = "Our services"
 
-
-  # Tiles Section
   [params.tiles]
     enable = true
-    # Display your showcases here.
     
     [[params.tiles.showcase]]
       title = "Privacy (GDPR)"
       subtitle = "Ipsum Dolor Sit Amet"
-      #image = "pic01.jpg"
       image = "privacy.jpg"
-      url = "blogs/aliquam"
+      url = "blogs/privacy"
 
     [[params.tiles.showcase]]
       title = "Information Security"
       subtitle = "Feugiat Amet Tempus"
-      #image = "pic02.jpg"
       image = "security.jpg"
-      url = "blogs/tempus"
+      url = "blogs/infosec"
 
     [[params.tiles.showcase]]
       title = "Secure Application Development"
       subtitle = "Lorem Etiam Nullam"
-      #image = "pic03.jpg"
       image = "sdlc.jpg"
-      url = "blogs/magna"
+      url = "blogs/sdlc"
 
     [[params.tiles.showcase]]
       title = "iGaming Security Services"
       subtitle = "Nisl Sed Aliquam"
-      #image = "pic04.jpg"
       image = "igaming.jpg"
-      url = "blogs/ipsum"
+      url = "blogs/igaming"
 
     [[params.tiles.showcase]]
       title = "Cyber Security Awareness"
       subtitle = "Ipsum Dolor Sit Amet"
-      #image = "pic05.jpg"
       image = "awareness.jpg"
-      url = "blogs/ipsum"
+      url = "blogs/training"
 
     [[params.tiles.showcase]]
       title = "Speaker and presenter"
       subtitle = "Feugiat Amet Tempus"
-      #image = "pic06.jpg"
       image = "conference.jpg"
-      url = "blogs/ipsum"
+      url = "blogs/conference"
   
   [params.blog]
     # All blogs defined in their own files. You can find example blogs

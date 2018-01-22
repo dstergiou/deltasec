@@ -1,7 +1,7 @@
 ---
-title: "Magna"
-description: "Lorem Etiam Nullam"
-slug: "magna"
+title: "Secure Application Development (SDLC)"
+description: "Secure Application Development (SDLC)"
+slug: "sdlc"
 image: pic09.jpg
 keywords: ""
 categories: 
