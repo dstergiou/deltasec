@@ -2,7 +2,7 @@
 title: "Privacy"
 description: "The privacy page"
 slug: "privacy"
-image: pic07.jpg
+image: privacy.jpg
 keywords: ""
 categories: 
     - ""

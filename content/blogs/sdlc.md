@@ -2,7 +2,7 @@
 title: "Secure Application Development (SDLC)"
 description: "Secure Application Development (SDLC)"
 slug: "sdlc"
-image: pic09.jpg
+image: sdlc.jpg
 keywords: ""
 categories: 
     - ""

@@ -2,7 +2,7 @@
 title: "Conferences and Speaking Engangements"
 description: "Conferences and Speaking Engangements"
 slug: "conference"
-image: pic10.jpg
+image: conference.jpg
 keywords: ""
 categories: 
     - ""

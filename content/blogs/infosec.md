@@ -2,7 +2,7 @@
 title: "Information Security"
 description: "Information Security"
 slug: "infosec"
-image: pic08.jpg
+image: security.jpg
 keywords: ""
 categories: 
     - ""

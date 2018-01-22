@@ -52,6 +52,11 @@ googleAnalytics = ""
       name = "Speaking engangements"
       url = "blogs/conference"
 
+    [[params.navigation.links]]
+      name = "About Delta Security"
+      url = "blogs/about"
+
+
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
@@ -99,23 +104,18 @@ googleAnalytics = ""
       url = "blogs/conference"
   
   [params.blog]
-    # All blogs defined in their own files. You can find example blogs
-    # at 'exampleSite/content/blogs'. Copy the 'blogs' folder into the 'content' directory
-    # at the root of this Hugo site.
-    # For more informtion take a look at the README.
-    # To add more blogs just copy and paste the code.
 
   # Section Type Two
-  #[params.two]
-  #  enable = true
-  #  title = "About"
-  #  subtitle = """Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. 
-  #  Mauris aliquet magna magna sed nunc rhoncus pharetra. 
-  #  Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. 
-  #  Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero.
-  #  Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus."""
-  #  buttonText = "Get Started"
-  #  url = "blogs"
+  [params.two]
+    #enable = true
+    #title = "About Delta Security"
+    #subtitle = """Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. 
+    #Mauris aliquet magna magna sed nunc rhoncus pharetra. 
+    #Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. 
+    #Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero.
+    #Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus."""
+    #buttonText = "Get Started"
+    #url = "blogs"
 
   # Contact section
   [params.contact]
@@ -162,13 +162,6 @@ googleAnalytics = ""
       icon = "fa-envelope"
       url= "mailto:dstergiou@gmail.com"
       label = "Email"
-
-    #[[params.footer.social]]
-     # icon = "fa-mobile"
-      #url= "tel:+46736992725"
-      #url = "[+46736992725](tel:+46736992725)"
-     # url = "tel://lala"
-     # label = "Call me!"
 
     [[params.footer.social]]
       icon = "fa-twitter"

@@ -2,7 +2,7 @@
 title: "iGaming Security Services"
 description: "iGaming Security Services"
 slug: "igaming"
-image: pic10.jpg
+image: igaming.jpg
 keywords: ""
 categories: 
     - ""

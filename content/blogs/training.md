@@ -2,7 +2,7 @@
 title: "Cyber Awareness Training"
 description: "Cyber Awareness Training"
 slug: "training"
-image: pic10.jpg
+image: awareness.jpg
 keywords: ""
 categories: 
     - ""
