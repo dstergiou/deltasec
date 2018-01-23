@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Delta Security"
+title = "Delta Sec"
 theme = "forty"
 
 googleAnalytics = ""
@@ -23,6 +23,14 @@ googleAnalytics = ""
     #menu = "Menu"
     # Optional logo as brand stored in img/
     # logo = "logo.png"
+
+   [[params.navigation.links]]
+      name = "About Delta Sec"
+      url = "company/about"
+
+    [[params.navigation.links]]
+      name = "Pricing"
+      url = "company/pricing"
 
     [[params.navigation.button1]]
       name = "Home"
@@ -52,15 +60,10 @@ googleAnalytics = ""
       name = "Speaking engangements"
       url = "blogs/conference"
 
-    [[params.navigation.links]]
-      name = "About Delta Security"
-      url = "blogs/about"
-
-
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "Delta Security"
+    title = "Delta Sec"
     subtitle = "Risk, Privacy, and Security consulting services"
     buttonText = "Our services"
 
@@ -69,38 +72,38 @@ googleAnalytics = ""
     
     [[params.tiles.showcase]]
       title = "Privacy (GDPR)"
-      subtitle = "Ipsum Dolor Sit Amet"
-      image = "privacy.jpg"
+      subtitle = "GDPR Compliance and Privacy Services"
+      image = "blogs/privacy.jpg"
       url = "blogs/privacy"
 
     [[params.tiles.showcase]]
       title = "Information Security"
-      subtitle = "Feugiat Amet Tempus"
-      image = "security.jpg"
+      subtitle = "Cyber and Informatin Security Services"
+      image = "blogs/security.jpg"
       url = "blogs/infosec"
 
     [[params.tiles.showcase]]
-      title = "Secure Application Development"
-      subtitle = "Lorem Etiam Nullam"
-      image = "sdlc.jpg"
+      title = "Secure Software Development"
+      subtitle = "Secure Engineering Principles and SDLC"
+      image = "blogs/sdlc.jpg"
       url = "blogs/sdlc"
 
     [[params.tiles.showcase]]
       title = "iGaming Security Services"
-      subtitle = "Nisl Sed Aliquam"
-      image = "igaming.jpg"
+      subtitle = "Regulatory compliance for iGaming"
+      image = "blogs/igaming.jpg"
       url = "blogs/igaming"
 
     [[params.tiles.showcase]]
       title = "Cyber Security Awareness"
-      subtitle = "Ipsum Dolor Sit Amet"
-      image = "awareness.jpg"
+      subtitle = "Awareness training focusing on Social Engineering"
+      image = "blogs/awareness.jpg"
       url = "blogs/training"
 
     [[params.tiles.showcase]]
       title = "Speaker and presenter"
-      subtitle = "Feugiat Amet Tempus"
-      image = "conference.jpg"
+      subtitle = "You want a speaker for your next conference?"
+      image = "blogs/conference.jpg"
       url = "blogs/conference"
   
   [params.blog]
@@ -156,7 +159,7 @@ googleAnalytics = ""
   # Footer section
   [params.footer]
     enable = true
-    copyright = "Delta Security 2018"
+    copyright = "Delta Sec 2018"
 
     [[params.footer.social]]
       icon = "fa-envelope"
