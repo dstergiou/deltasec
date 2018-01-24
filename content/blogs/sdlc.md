@@ -7,35 +7,17 @@ date: 2017-10-31T22:26:09-05:00
 draft: false
 ---
 
-An unbeatable combination of security experts and developers
-Our unique team of secure development experts is typically involved in projects where security and availability are integral parts of the product.
+The earlier a security bug is discovered in the development lifecycle, the lesser the cost will be to remedy the bug. This may sound like a cliché, but we have seen it happening multiple times. And if you don't believe us, believe all the research that been done on the idea of [defect cost curve](https://www.google.se/search?q=defect+cost+curve).
 
-By being tightly integrated with the TrueSec, our developers are constantly updated with the latest threats and exploitation techniques used by motivated hackers.
+By introducing an SDLC (Software Development Lifecycle) into your development processes you ensure that a number of key activities are performed at the appropriate time - activities that can lead to more secure systems and less cost for keeping them secure.
 
-====
+It does not matter if your development team utilizes Agile methodologies, Waterfall, RUP or Prince 2. The key activities you will be implementing are the same - the placement within your specific methodology might differ though. But here is where we come in, identifying the activities that need to be introduced, as well as the stages of introduction.
 
-SDLC (Secure Development Life-Cycle)
-How do you approach security in development? Our experience is that many security flaws can be avoided applying SDLC.
+We love working with open communities and open standards, therefore our SDLC model of choice is [OpenSAMM](http://www.opensamm.org/), by [OWASP](https://www.owasp.org/index.php/Main_Page). We, obviously, understand that you might not wish to implement the full model, so here is how we can help:
 
-Regardless if you work agile or with a traditional development process, there are some activities that must be carried out to avoid insecure systems and/or software. Secure development cannot simply be achieved through performing test or writing requirements. It is a a continuous activity that covers the full lifespan of the software and system.
+1. We will conduct an initial assessment to identify which areas are doing great and which areas are lacking
+2. We will create a scorecard for your organization (or for your teams) so you can track the pogress as your process improve 
+3. We will create a roadmap of where you need (or want) to be - to put it plainly: a roadmap of how much you want to improve
+4. We will define the activities needed to follow the roadmap and bring you to your end goal
 
-Agile development and SDLC
-Many seem to believe that agile development is inconsistent with security. Although the formal practices in an agile environment may be different, suitable techniques exist that have been proven to work well also in agile development projects.
-
-Do not worry that SDLC would decrease agility or become an undue burden. Our experience is quite the opposite. Most agile teams embrace security thinking and improve software security significantly.
-
-Sentor has extensive experience helping agile teams implement SDLC and improve development security.
-
-Improve your security with the following services:
-Security analysis of web applications
-Seminars and courses in application security for your developers
-Tests of your developers knowledge in application security
-Security in application design
-Risk analysis and threat modelling at the beginning of the development project
-Counselling in application security during the development process
-Source code audit
-Establishing SDLC activities
-Secure development tools and methods
-Architecture review
-Code review
-Project management and project participation
+If you find the above interesting, or you need additional information, dont' hesitate to contact us. Use any of the social buttons below and get in touch!
