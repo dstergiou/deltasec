@@ -28,3 +28,5 @@ You can also use our services for panel participation or panel moderation, provi
 The following presentation was given to the students of [MSc Information Security, DSV](http://dsv.su.se/en/education/courses-and-programmes/masters/information-security-120-credits) at Stockholm, Sweden. The students are inviting industry experts to talk about their experience and provide insights to the graduate students. The goal of this presentation was to explain what a CISO (Chief Information Security Officer) does on a daily basis, and what path the students could follow to prepare for a similar position.
 
 {{< speakerdeck bc653322996d4f27a06e094ca54197c1 >}}
+
+If you find the above interesting, or you need additional information, dont' hesitate to contact us. Use any of the social buttons below and get in touch!
