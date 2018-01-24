@@ -16,6 +16,7 @@ We have extensive experience working with the following jurisdictions when it co
 * [Malta - MGA - Malta Gaming Authority](http://www.mga.org.mt/)
 * [Alderney - AGCC - Alderney Gambling Control Comission](https://www.gamblingcontrol.org/)
 * [UK - UKGC - UK Gambling Comission](http://www.gamblingcommission.gov.uk/home.aspx)
+* [Isle of Man - GSC -  Gambling Supervision Commission](https://www.gov.im/categories/business-and-industries/gambling-and-e-gaming/)
 * [Italy - AAMS - Agenzia Delle Dogane E Dei Monopoli](https://www.agenziadoganemonopoli.gov.it/portale/monopoli)
 * [Denmark - Spillemyndigheden](https://spillemyndigheden.dk/en)
 * [Spain - DGRG - Directorate General for the Regulation of Gambling](https://www.ordenacionjuego.es/en/conocenos)
