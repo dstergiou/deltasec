@@ -164,6 +164,11 @@ googleAnalytics = ""
       label = "Email"
 
     [[params.footer.social]]
+      icon = "fa-mobile"
+      url= "tel:+46736992725"
+      label = "Phone"
+
+    [[params.footer.social]]
       icon = "fa-twitter"
       url= "https://www.twitter.com/dstergiou"
       label = "Twitter"
