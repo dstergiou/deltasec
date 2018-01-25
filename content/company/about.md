@@ -1,6 +1,6 @@
 ---
 title: "About Delta Sec"
-description: "About Delta Sec"
+description: "Learn about our company: What we have done in the past, what we are currently doing and who will be helping you if you choose to go with us"
 slug: "about"
 image: about.jpg
 date: 2017-10-31T21:28:43-05:00

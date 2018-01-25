@@ -38,27 +38,27 @@ googleAnalytics = ""
 
     [[params.navigation.links]]
       name = "Privacy (GDPR)"
-      url = "blogs/privacy"
+      url = "services/privacy"
 
     [[params.navigation.links]]
       name = "Information Security"
-      url = "blogs/infosec"
+      url = "services/infosec"
 
     [[params.navigation.links]]
       name = "Secure Development (SDLC)"
-      url = "blogs/sdlc"
+      url = "services/sdlc"
 
     [[params.navigation.links]]
       name = "iGaming Security"
-      url = "blogs/igaming"
+      url = "services/igaming"
 
     [[params.navigation.links]]
       name = "Awareness Training"
-      url = "blogs/training"
+      url = "services/training"
 
     [[params.navigation.links]]
       name = "Speaking engangements"
-      url = "blogs/conference"
+      url = "services/conference"
 
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
@@ -73,41 +73,40 @@ googleAnalytics = ""
     [[params.tiles.showcase]]
       title = "Privacy (GDPR)"
       subtitle = "GDPR Compliance and Privacy Services"
-      image = "blogs/privacy.jpg"
-      url = "blogs/privacy"
+      image = "services/privacy.jpg"
+      url = "services/privacy"
 
     [[params.tiles.showcase]]
       title = "Information Security"
       subtitle = "Cyber and Informatin Security Services"
-      image = "blogs/security.jpg"
-      url = "blogs/infosec"
+      image = "services/security.jpg"
+      url = "services/infosec"
 
     [[params.tiles.showcase]]
       title = "Secure Software Development"
       subtitle = "Secure Engineering Principles and SDLC"
-      image = "blogs/sdlc.jpg"
-      url = "blogs/sdlc"
+      image = "services/sdlc.jpg"
+      url = "services/sdlc"
 
     [[params.tiles.showcase]]
       title = "iGaming Security Services"
       subtitle = "Regulatory compliance for iGaming"
-      image = "blogs/igaming.jpg"
-      url = "blogs/igaming"
+      image = "services/igaming.jpg"
+      url = "services/igaming"
 
     [[params.tiles.showcase]]
       title = "Cyber Security Awareness"
       subtitle = "Awareness training focusing on Social Engineering"
-      image = "blogs/awareness.jpg"
-      url = "blogs/training"
+      image = "services/awareness.jpg"
+      url = "services/training"
 
     [[params.tiles.showcase]]
       title = "Speaker and presenter"
-      subtitle = "You want a speaker for your next conference?"
-      image = "blogs/conference.jpg"
-      url = "blogs/conference"
+      subtitle = "Do you need a speaker for your next conference?"
+      image = "services/conference.jpg"
+      url = "services/conference"
   
   [params.blog]
-
   # Section Type Two
   [params.two]
     enable = true

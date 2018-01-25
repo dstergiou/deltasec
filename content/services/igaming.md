@@ -1,6 +1,6 @@
 ---
 title: "iGaming Security Services"
-description: "iGaming Security Services"
+description: "If you are looking for someone to help you prepare your organization before applying for a gaming licence, or you are looking for someone to help you set up your management system in a way that the testing agencies will find suitable, then look no further"
 slug: "igaming"
 image: igaming.jpg
 date: 2017-10-31T21:28:43-05:00
@@ -9,7 +9,7 @@ draft: false
 
 We realize that the iGaming world has rigorous certifications that can only be undertaken by authorized and (somtimes) pre-approved testing agencies (labs). If this is what you are looking for, we can't help you - not today at least.
 
-But if you are looking for someone to help you prepare your organization before applying for a gaming licence, or you are looking for someone to help you set up your management system in a way taht the testing agencies will find suitable, then look no further.
+But if you are looking for someone to help you prepare your organization before applying for a gaming licence, or you are looking for someone to help you set up your management system in a way that the testing agencies will find suitable, then look no further.
 
 We have extensive experience working with the following jurisdictions when it comes to Information Securiy regulatory requirements:
 

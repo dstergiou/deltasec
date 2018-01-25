@@ -1,6 +1,6 @@
 ---
 title: "Pricing"
-description: "Pricing"
+description: "Our pricing models and how we engange with our customers. We are sure you will find something you like in here!"
 slug: "pricing"
 image: pricing.jpg
 date: 2017-10-31T21:28:43-05:00

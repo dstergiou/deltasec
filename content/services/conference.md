@@ -1,6 +1,6 @@
 ---
 title: "Conferences and Speaking Engangements"
-description: "Conferences and Speaking Engangements"
+description: "If you are looking for a speaker for your next conference, then we can help you by providing an interesting and enganging talk"
 slug: "conference"
 image: conference.jpg
 date: 2017-10-31T21:28:43-05:00

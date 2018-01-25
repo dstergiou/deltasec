@@ -1,6 +1,6 @@
 ---
 title: "Privacy"
-description: "The privacy page"
+description: "Privacy (GDPR)"
 slug: "privacy"
 image: privacy.jpg
 date: 2017-10-31T22:42:51-05:00
