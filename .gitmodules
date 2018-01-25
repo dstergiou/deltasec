@@ -1,0 +1,3 @@
+[submodule "themes/forty"]
+	path = themes/forty
+	url = https://github.com/dstergiou/forty
