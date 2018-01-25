@@ -7,7 +7,7 @@ date: 2017-10-31T21:28:43-05:00
 draft: false
 ---
 
-Delta Sec is a consulting company that offers services in the areas of Information Security, Privacy and Security Awarness Training. 
+Delta Sec is a consulting company that offers services in the areas of Information Security, Privacy and Security Awareness Training. 
 
 The company was established by [Dimitrios Stergiou](https://www.linkedin.com/in/dstergiou/) who has over 20 years of experience in roles that cover IT Security, Information Security, Privacy and Awareness Training. Dimitrios has held roles such as:
 
@@ -24,5 +24,5 @@ Dimitrios currently holds the following certifications:
 * [Exin](https://www.exin.com/): ITIL Foundation
 * [BSI Group](https://www.bsigroup.com/): ISO 27001 Lead Implementer
 
-Additional information (for past employement and certifications) can be found on [Dimitrios's](https://www.linkedin.com/in/dstergiou/) profile on LinkedIn. If you have any questions related to Dimitrios's qualifications don't hesitate to get in contact. A CV in PDF version can also be made available upon request.
+Additional information (for past employment and certifications) can be found on [Dimitrios's](https://www.linkedin.com/in/dstergiou/) profile on LinkedIn. If you have any questions related to Dimitrios's qualifications don't hesitate to get in contact. A CV in PDF version can also be made available upon request.
 

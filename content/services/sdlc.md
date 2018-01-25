@@ -16,8 +16,8 @@ It does not matter if your development team utilizes Agile methodologies, Waterf
 We love working with open communities and open standards, therefore our SDLC model of choice is [OpenSAMM](http://www.opensamm.org/), by [OWASP](https://www.owasp.org/index.php/Main_Page). We, obviously, understand that you might not wish to implement the full model, so here is how we can help:
 
 1. We will conduct an initial assessment to identify which areas are doing great and which areas are lacking
-2. We will create a scorecard for your organization (or for your teams) so you can track the pogress as your process improve 
+2. We will create a scorecard for your organization (or for your teams) so you can track the progress as your processes improve 
 3. We will create a roadmap of where you need (or want) to be - to put it plainly: a roadmap of how much you want to improve
 4. We will define the activities needed to follow the roadmap and bring you to your end goal
 
-If you find the above interesting, or you need additional information, dont' hesitate to contact us. Use any of the social buttons below and get in touch!
+If you find the above interesting, or you need additional information, don't hesitate to contact us. Use any of the social buttons below and get in touch!
