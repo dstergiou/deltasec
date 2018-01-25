@@ -57,7 +57,7 @@ googleAnalytics = ""
       url = "services/training"
 
     [[params.navigation.links]]
-      name = "Speaking engangements"
+      name = "Speaking engagements"
       url = "services/conference"
 
   [params.banner]
@@ -78,7 +78,7 @@ googleAnalytics = ""
 
     [[params.tiles.showcase]]
       title = "Information Security"
-      subtitle = "Cyber and Informatin Security Services"
+      subtitle = "Cyber and Information Security Services"
       image = "services/security.jpg"
       url = "services/infosec"
 
