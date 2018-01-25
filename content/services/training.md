@@ -1,34 +1,19 @@
 ---
 title: "Cyber Awareness Training"
-description: "Cyber Awareness Training"
+description: "A social engineering exercise can highlight the degree of readiness your organization has against phishing and spear phishing. On top of that, we will train your organization on how to recognize the principles behind phishing and how to defend against them "
 slug: "training"
 image: awareness.jpg
 date: 2017-10-31T21:28:43-05:00
 draft: false
 ---
 
-Cyber awareness training
+Social engineering attacks such as phishing, spear phishing and voice phishing (vishing) are becoming the most popular methods for an attacker to get a foothold in an organization. Considering that these attacks are easy to execute and pose minimum danger for the attacker, it's no question that your organization will have to defend against them successfully if you want to maintain a secure environment.
 
-Social engineering tests
-Security awareness training
+What we can help you with:
 
+* Execute a phishing or spear phishing campaign against your organization based on either generic or custom templates
+* Report on the rate of success for this phishing campaign
+* Provide "on the spot" training on what the user should have done differently
+* Train your employees, in an instructor-led class on the psychology of phishing - what makes us "click the link"
 
-====
-
-
-Why do a Phishing Risk Assessment?
-It measures the risk of a successful phishing attack against your organization.
-It let’s you measure your organization’s resilience against phishing attacks over time
-What’s included?
-One or two customized phishing email templates
-A summarizing report
-Optional add-ons
-We can add e-mail templates and payloads such as attachments to the service. Your users can also receive training from TrueSec’s security experts. It increases your organization’s user resilience against phishing attacks.
-
-
-====
-
-Secure web development and hacking for developers
-
-
-====
+If you find the above interesting, or you need additional information, don't hesitate to contact us. Use any of the social buttons below and get in touch!
