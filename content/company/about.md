@@ -26,3 +26,11 @@ Dimitrios currently holds the following certifications:
 
 Additional information (for past employment and certifications) can be found on [Dimitrios's](https://www.linkedin.com/in/dstergiou/) profile on LinkedIn. If you have any questions related to Dimitrios's qualifications don't hesitate to get in contact. A CV in PDF version can also be made available upon request.
 
+### How to contact us
+If you wish to contact us to learn more about out services, or discuss about a project, you can:
+
+* Email us at [dstergiou@gmail.com](mailto:dstergiou@gmail.com)
+* Call us at +46 (0) 736992725
+* Find us on [LinkedIn](https://www.linkedin.com/in/dstergiou/) 
+
+We would love to hear from you, so get in touch!
