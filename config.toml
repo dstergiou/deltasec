@@ -167,6 +167,11 @@ googleAnalytics = ""
       icon = "fa-mobile"
       url= "tel:+46736992725"
       label = "Phone"
+    
+    [[params.footer.social]]
+      icon = "fa-whatsapp"
+      url= "https://api.whatsapp.com/send?phone=46736992725"
+      label = "WhatsApp"
 
     [[params.footer.social]]
       icon = "fa-twitter"
