@@ -3,7 +3,7 @@ title: "Secure Application Development (SDLC)"
 description: "By introducing an SDLC (Software Development Lifecycle) into your development processes you ensure that a number of key activities are performed at the appropriate time - activities that can lead to more secure systems and less cost for keeping them secure"
 slug: "sdlc"
 image: sdlc.jpg
-date: 2017-10-31T22:26:09-05:00
+date: 2018-01-25
 draft: false
 ---
 

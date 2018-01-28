@@ -3,7 +3,7 @@ title: "iGaming Security Services"
 description: "If you are looking for someone to help you prepare your organization before applying for a gaming license, or you are looking for someone to help you set up your management system in a way that the testing agencies will find suitable, then look no further"
 slug: "igaming"
 image: igaming.jpg
-date: 2017-10-31T21:28:43-05:00
+date: 2018-01-24
 draft: false
 ---
 

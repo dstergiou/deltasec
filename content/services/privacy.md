@@ -3,7 +3,7 @@ title: "Privacy"
 description: "GDPR compliance is not just an IT or just a Legal project. GDPR compliance touches all part of an organization and can be complex - but we can help"
 slug: "privacy"
 image: privacy.jpg
-date: 2017-10-31T22:42:51-05:00
+date: 2018-01-27
 draft: false
 ---
 

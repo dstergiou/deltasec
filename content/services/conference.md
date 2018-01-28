@@ -3,7 +3,7 @@ title: "Conferences and Speaking Engagements"
 description: "If you are looking for a speaker for your next conference, then we can help you by providing an interesting and engaging talk"
 slug: "conference"
 image: conference.jpg
-date: 2017-10-31T21:28:43-05:00
+date: 2018-01-21
 draft: false
 ---
 

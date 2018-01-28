@@ -28,33 +28,37 @@ googleAnalytics = ""
       name = "About Delta Sec"
       url = "company/about"
 
-    [[params.navigation.links]]
-      name = "Pricing"
-      url = "company/pricing"
-
     [[params.navigation.button1]]
       name = "Home"
       url = "#"
-
-    [[params.navigation.links]]
-      name = "Privacy (GDPR)"
-      url = "services/privacy"
 
     [[params.navigation.links]]
       name = "Information Security"
       url = "services/infosec"
 
     [[params.navigation.links]]
-      name = "Secure Development (SDLC)"
-      url = "services/sdlc"
+      name = "Privacy (GDPR)"
+      url = "services/privacy"
+
+    [[params.navigation.links]]
+      name = "Vulnerability Assessement"
+      url = "services/vulnerability"
 
     [[params.navigation.links]]
       name = "iGaming Security"
       url = "services/igaming"
 
     [[params.navigation.links]]
+      name = "Secure Development (SDLC)"
+      url = "services/sdlc"
+
+    [[params.navigation.links]]
       name = "Awareness Training"
       url = "services/training"
+
+    [[params.navigation.links]]
+      name = "Risk Management"
+      url = "services/risk"
 
     [[params.navigation.links]]
       name = "Speaking engagements"
@@ -83,10 +87,22 @@ googleAnalytics = ""
       url = "services/infosec"
 
     [[params.tiles.showcase]]
+      title = "Vulnerability assessment"
+      subtitle = "Assess how your external assets appear to a potential attacker"
+      image = "services/vulnerability.jpg"
+      url = "services/vulnerability"
+    
+    [[params.tiles.showcase]]
       title = "Secure Software Development"
       subtitle = "Secure Engineering Principles and SDLC"
       image = "services/sdlc.jpg"
       url = "services/sdlc"
+    
+    [[params.tiles.showcase]]
+      title = "Cyber Security Awareness"
+      subtitle = "Awareness training focusing on Social Engineering"
+      image = "services/awareness.jpg"
+      url = "services/training"
 
     [[params.tiles.showcase]]
       title = "iGaming Security Services"
@@ -95,10 +111,10 @@ googleAnalytics = ""
       url = "services/igaming"
 
     [[params.tiles.showcase]]
-      title = "Cyber Security Awareness"
-      subtitle = "Awareness training focusing on Social Engineering"
-      image = "services/awareness.jpg"
-      url = "services/training"
+      title = "Risk management"
+      subtitle = "Build your Enterprise Risk Management framework"
+      image = "services/risk.jpg"
+      url = "services/risk"
 
     [[params.tiles.showcase]]
       title = "Speaker and presenter"
