@@ -113,8 +113,8 @@ googleAnalytics = ""
     title = "About Delta Sec"
     subtitle = """Delta Sec is a consulting company that offers services in the areas of
     Information Security, Privacy and Security Awarness Training. If you want to learn more
-    about the company, and the pricing structure, please follow the link."""
-    buttonText = "About us & Pricing"
+    about the company follow this link."""
+    buttonText = "About us"
     url = "company"
 
   # Contact section
