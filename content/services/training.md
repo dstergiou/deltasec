@@ -1,6 +1,6 @@
 ---
 title: "Cyber Awareness Training"
-description: "A social engineering exercise can highlight the degree of readiness your organization has against phishing and spear phishing. On top of that, we will train your organization on how to recognize the principles behind phishing and how to defend against them "
+description: "A social engineering exercise can highlight the degree of readiness your organization has against phishing and spear phishing. On top of that, we will train your organization on how to recognize the principles behind phishing and how to defend against them."
 slug: "training"
 image: awareness.jpg
 date: 2018-01-22

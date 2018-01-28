@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Delta Sec</title>
+    <link>https://dstergiou.github.io/services/</link>
+    <description>Recent content in Services on Delta Sec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Oct 2017 22:27:21 -0500</lastBuildDate>
+    
+	<atom:link href="https://dstergiou.github.io/services/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Information Security</title>
+      <link>https://dstergiou.github.io/services/infosec/</link>
+      <pubDate>Sun, 28 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dstergiou.github.io/services/infosec/</guid>
+      <description>Information security is a set of strategies for managing the processes, tools, people and policies necessary to prevent, detect, document and counter threats to digital and non-digital information. Although information security used to be considered the job of IT, it has reached a state where it covers the whole organization and it&amp;rsquo;s an integral part of any Enterprise Risk Management (ERM) framework.
+Strategic information security We can assist with:</description>
+    </item>
+    
+    <item>
+      <title>Privacy</title>
+      <link>https://dstergiou.github.io/services/privacy/</link>
+      <pubDate>Sat, 27 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dstergiou.github.io/services/privacy/</guid>
+      <description>The Personal Data Act and EU’s forthcoming General Data Protection Regulation (GDPR) define that organizations have an obligation to protect personal information against unauthorized use.
+We help you to protect your data; in use, in transit or at rest. Whether you gather data directly from the data subjects or indirectly you must do it in a transparent and privacy ensuring way. When analyzing the collected data, whether on-premise or in cloud, you need to ensure only correct parties have access to it and the results.</description>
+    </item>
+    
+    <item>
+      <title>Vulnerability assessment</title>
+      <link>https://dstergiou.github.io/services/vulnerability/</link>
+      <pubDate>Fri, 26 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dstergiou.github.io/services/vulnerability/</guid>
+      <description>The Vulnerability Assessment Service is a service to identify technical vulnerabilities in existing IT environments. The purpose is to reduce the risk of intrusion or accidental damage that may affect or damage your operations.
+By the use of a world-leading technology, we provide our customers with a clear view of how they can easily protect their IT environment, thereby minimizing financial, legal and operational risks and potential damage to the brand.</description>
+    </item>
+    
+    <item>
+      <title>Secure Application Development (SDLC)</title>
+      <link>https://dstergiou.github.io/services/sdlc/</link>
+      <pubDate>Thu, 25 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dstergiou.github.io/services/sdlc/</guid>
+      <description>The earlier a security bug is discovered in the development lifecycle, the lesser the cost will be to remedy the bug. This may sound like a cliché, but we have seen it happening multiple times. And if you don&amp;rsquo;t believe us, believe all the research that been done on the idea of defect cost curve.
+By introducing an SDLC (Software Development Lifecycle) into your development processes you ensure that a number of key activities are performed at the appropriate time - activities that can lead to more secure systems and less cost for keeping them secure.</description>
+    </item>
+    
+    <item>
+      <title>iGaming Security Services</title>
+      <link>https://dstergiou.github.io/services/igaming/</link>
+      <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dstergiou.github.io/services/igaming/</guid>
+      <description>We realize that the iGaming world has rigorous certifications that can only be undertaken by authorized and (sometimes) pre-approved testing agencies (labs). If this is what you are looking for, we can&amp;rsquo;t help you - not today at least.
+But if you are looking for someone to help you prepare your organization before applying for a gaming license, or you are looking for someone to help you set up your management system in a way that the testing agencies will find suitable, then look no further.</description>
+    </item>
+    
+    <item>
+      <title>Risk Management</title>
+      <link>https://dstergiou.github.io/services/risk/</link>
+      <pubDate>Tue, 23 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dstergiou.github.io/services/risk/</guid>
+      <description>Risk</description>
+    </item>
+    
+    <item>
+      <title>Cyber Awareness Training</title>
+      <link>https://dstergiou.github.io/services/training/</link>
+      <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dstergiou.github.io/services/training/</guid>
+      <description>Social engineering attacks such as phishing, spear phishing and voice phishing (vishing) are becoming the most popular methods for an attacker to get a foothold in an organization. Considering that these attacks are easy to execute and pose minimum danger for the attacker, it&amp;rsquo;s no question that your organization will have to defend against them successfully if you want to maintain a secure environment.
+What we can help you with:</description>
+    </item>
+    
+    <item>
+      <title>Conferences and Speaking Engagements</title>
+      <link>https://dstergiou.github.io/services/conference/</link>
+      <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dstergiou.github.io/services/conference/</guid>
+      <description>If you are looking for a speaker for your next conference, then we can help you by providing an interesting and engaging talk. Our main passions are:
+ Cyber Capabilities Maturity Models Secure Software Development and SDLCs Social Engineering  You can also use our services for panel participation or panel moderation, provided that the panel is addressing topics in the areas that we offer services in. We even love to talk about iGaming, but only about the regulatory side of things - we are not experts in what makes games attractive!</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -57,8 +57,8 @@ googleAnalytics = ""
       url = "services/training"
 
     [[params.navigation.links]]
-      name = "Risk Management"
-      url = "services/risk"
+      name = "Outsourcing Evaluation"
+      url = "services/outsource"
 
     [[params.navigation.links]]
       name = "Speaking engagements"
@@ -111,10 +111,10 @@ googleAnalytics = ""
       url = "services/igaming"
 
     [[params.tiles.showcase]]
-      title = "Risk management"
-      subtitle = "Build your Enterprise Risk Management framework"
-      image = "services/risk.jpg"
-      url = "services/risk"
+      title = "Outsource Evaluation"
+      subtitle = "Are you looking for help to evaluate potential 3rd party suppliers?"
+      image = "services/outsource.jpg"
+      url = "services/outsource"
 
     [[params.tiles.showcase]]
       title = "Speaker and presenter"

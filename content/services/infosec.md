@@ -1,6 +1,6 @@
 ---
 title: "Information Security"
-description: "Information Security is the core of what we do. If you are looking for ISO 27001 assistance, measuring your cyber capabilities, improving your security posture, or for a general health check, this is the section for you"
+description: "Information Security is the core of what we do. If you are looking for ISO 27001 assistance, measuring your cyber capabilities, improving your security posture, or for a general health check, this is the section for you."
 slug: "infosec"
 image: security.jpg
 date: 2018-01-28
@@ -42,7 +42,7 @@ If you are not interested in an ISO 27001:2013 certification but you just want t
 
 The model allows for evaluating the organization in ten different domains that cover the whole spectrum of information security and the results can be summarized as seen below:
 
-{{< figure src="/img/services/ccmm.png" >}}
+{{< figure src="/img/services/ccmm.png" width="80%">}}
 
 <br/>
 With our assistance you will be able to define:
