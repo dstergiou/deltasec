@@ -41,7 +41,7 @@ googleAnalytics = ""
       url = "services/privacy"
 
     [[params.navigation.links]]
-      name = "Vulnerability Assessement"
+      name = "Vulnerability Assessment / Penetration Testing"
       url = "services/vulnerability"
 
     [[params.navigation.links]]
@@ -87,7 +87,7 @@ googleAnalytics = ""
       url = "services/infosec"
 
     [[params.tiles.showcase]]
-      title = "Vulnerability assessment"
+      title = "Vulnerability assessment / Penetration testing"
       subtitle = "Assess how your external assets appear to a potential attacker"
       image = "services/vulnerability.jpg"
       url = "services/vulnerability"
