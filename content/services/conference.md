@@ -17,15 +17,15 @@ You can also use our services for panel participation or panel moderation, provi
 
 ### Past engagements
 
-* Speaking engagement: The psychology of Social Engineering, e-Crime Congress Munich, June 2018
+* Speaking engagement: The psychology of Social Engineering, _e-Crime Congress Munich, June 2018_
 * Conference chair: Noord InfoSec Dialogue - Nordics, May 2018
-* Speaking engagement: The psychology of Social Engineering, CISO 360 Middle East Congress, April 2018
-* Speaking engagement: The psychology of Social Engineering, Security Insight Summit, Dec 2017
-* Panel participation: Cyber: Taking care of Business, Nordic IT Security, Nov 2017
-* Speaking engagement: Agile Application Security, e-Crime Congress Nordics, Nov 2017
-* Speaking engagement: A day in the life of a CISO, DSV, MSc Information Security students, Sep 2017
-* Speaking engagement: The psychology of phishing, Noord InfoSec Dialogue Nordics, Sep 2017
-* Speaking engagement: Agile Application Security, Netlight EDGE, May 2016
+* Speaking engagement: The psychology of Social Engineering, _CISO 360 Middle East Congress, April 2018_
+* Speaking engagement: The psychology of Social Engineering, _Security Insight Summit, Dec 2017_
+* Panel participation: Cyber: Taking care of Business, _Nordic IT Security, Nov 2017_
+* Speaking engagement: Agile Application Security, _e-Crime Congress Nordics, Nov 2017_
+* Speaking engagement: A day in the life of a CISO, _DSV, MSc Information Security students, Sep 2017_
+* Speaking engagement: The psychology of phishing, _Noord InfoSec Dialogue Nordics, Sep 2017_
+* Speaking engagement: Agile Application Security, _Netlight EDGE, May 2016_
 
 ### Sample presentation
 
