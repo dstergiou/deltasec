@@ -17,6 +17,7 @@ You can also use our services for panel participation or panel moderation, provi
 
 ### Past engagements
 
+* Speaking engagement: The psychology of Social Engineering, e-Crime Congress Munich, June 2018
 * Conference chair: Noord InfoSec Dialogue - Nordics, May 2018
 * Speaking engagement: The psychology of Social Engineering, CISO 360 Middle East Congress, April 2018
 * Speaking engagement: The psychology of Social Engineering, Security Insight Summit, Dec 2017
